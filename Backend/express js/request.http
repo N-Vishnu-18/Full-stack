@@ -1,0 +1,31 @@
+GET http://localhost:4000/users
+
+###
+GET http://localhost:4000/users/2
+
+###
+
+POST http://localhost:4000/new-user
+Content-Type:application/json 
+
+{
+    "id":3,
+    "name":"ravi"
+}
+
+
+###
+PUT http://localhost:4000/user/1
+Content-Type:application/json 
+
+{
+    "id":1,
+    "name":"vishnu vardhan"
+}
+
+###
+DELETE http://localhost:4000/user/1
+
+
+
+
