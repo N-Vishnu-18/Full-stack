@@ -1,8 +1,0 @@
-create package.json file
-(->use npm init)
-create server.js 
-install express module
-create experess application
-Attach port number to Http server
-create API's
-install nodemon(npm install -g nodemon) 
