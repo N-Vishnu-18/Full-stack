@@ -1,0 +1,29 @@
+GET http://localhost:4000/products
+
+###
+GET http://localhost:4000/products/2
+
+###
+POST http://localhost:4000/new-product
+Content-Type: application/json
+
+{
+    "productID": 3,
+    "productName": "Headphones",
+    "price": 50,
+    "brand": "Sony"
+}
+
+###
+PUT http://localhost:4000/product/1
+Content-Type: application/json
+
+{
+    "productID": 1,
+    "productName": "Updated Laptop",
+    "price": 1200,
+    "brand": "Lenovo"
+}
+
+###
+DELETE http://localhost:4000/product/1
