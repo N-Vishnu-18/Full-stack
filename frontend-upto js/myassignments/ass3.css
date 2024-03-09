@@ -1,0 +1,25 @@
+body{
+    background-color:#FAF2E5;
+   font-family:'Roboto', sans-serif;
+   font-weight: bold;
+
+}
+#badge{
+    text-align: center;
+    font-size:30px;
+    font-weight:bold;
+    margin:18px;
+    margin-top:28px;
+}
+.div1{
+    margin:0px;
+    line-height:0px;
+}
+
+.div2{
+    margin-left:265px;
+    
+}
+h2{
+    color:#d85420;
+}

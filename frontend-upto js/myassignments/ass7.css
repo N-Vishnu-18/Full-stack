@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/01/33/40/65/360_F_133406580_CutUy93Br1OxgkWo0yIY1drMA7yZEWlG.jpg");
+    background-size: cover;
+}
+table,th,td{
+
+    border: 1px solid;   
+    border-collapse: collapse;
+    padding: 10px;
+}
+.table1{
+    width:30rem;
+    margin:auto;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+.table2{
+    width:30rem;
+    margin:auto;
+    margin-top: 60px;
+    text-align: center;
+    
+}
+tbody{
+    background-color: beige;
+    color:black
+}
+thead{
+    background-color: black;
+    color:aliceblue;
+}

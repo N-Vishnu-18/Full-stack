@@ -1,0 +1,14 @@
+.tech { 
+    width:100px;
+    padding: 4px; 
+    text-align: center;
+
+    transition: width 0.3s ease; 
+
+}
+
+.tech:hover {
+    
+    width: 120px;
+  
+}

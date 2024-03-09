@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "3e2e",
+      "username": "vishnu",
+      "password": "$2a$05$BQ9/q7ekMCzhsOnIPBiG5.BbL75IotJbwjfOB0QFEeABgzETkN.V.",
+      "email": "nagireddyvishnuvardhan1@gmail.com"
+    },
+    {
+      "id": "6c52",
+      "username": "vishnu",
+      "password": "$2a$05$SeO2WxBr/UDVlwkgG4xr.OtJ5PVZKar447EhE/E2ihEF5x8PA8KT6",
+      "email": "nagireddyvishnuvardhan1@gmail.com"
+    }
+  ]
+}

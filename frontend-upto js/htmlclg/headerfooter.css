@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=VT323&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /*universal selector*/
+}
+body{
+    color: green;
+    font-family: 'VT323', monospace;;
+}
+.header{
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.221),rgba(0, 128, 0, 0.221),rgba(255, 255, 0, 0.221),rgba(255, 255, 0, 0.221),rgba(0, 128, 0, 0.221),rgba(0, 0, 0, 0.221)),url(../assets/forest-g31e041271_1920.jpg);
+    background-size:cover;
+    
+    height:650px;
+    color:rgb(48, 45, 45);
+    text-align: center;
+}
+.footer{
+    background-color: cadetblue;
+    padding: 55px;
+    color:rgb(48, 45, 45);
+    font-size: 2rem;
+    text-align: center;
+}
+.main{
+    min-height:60vh;
+}
+.profile{
+    width:350px;
+    margin: auto;
+    text-align: center;
+    font-size:1.2rem;
+    box-shadow: 1px 1px 10px rgb(72, 172, 171);
+    border-radius:10px;
+    margin-top: 50px;
+    padding:10px;
+
+}
+img{
+    width:175px;
+    height:175px;
+    border-radius:50%;
+    
+}
+h3{
+    margin:20px;
+}
+.header p{
+    font-size:4rem;
+    background:-webkit-linear-gradient(black,black,green,green,black,green,green,black,black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}

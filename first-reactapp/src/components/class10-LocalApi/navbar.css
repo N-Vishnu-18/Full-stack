@@ -1,0 +1,19 @@
+.nav-link {
+    color: white;
+}
+
+.active {
+    color: lightblue;
+
+    font-size: 1.1rem;
+}
+
+.nav-link:hover
+{
+    color: rgb(59, 59, 182);
+}
+.nav-link:focus
+{
+    color: lightblue;
+
+}

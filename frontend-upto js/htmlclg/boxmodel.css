@@ -1,0 +1,15 @@
+h1{ color:rgb(17, 115, 133);
+    text-align:center;
+    /* border:3px solid rgb(0, 0, 0); */
+    /* background-color:#1DB954; */
+    /* background-image:linear-gradient(to right,black,black,darkgreen,green,darkgreen,black,black); */
+    padding:0px;
+    margin-top: 350px;
+}
+body{
+ 
+ background-image:url("../assets/download.jpg") ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover;
+}

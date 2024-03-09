@@ -1,0 +1,18 @@
+img{
+    border-radius: 50%;
+}
+.i1{
+    
+     float:left;
+    
+}
+.i2{
+    
+    float:right;
+   
+}
+.i3{
+    display:block;
+    margin:auto;
+   
+}

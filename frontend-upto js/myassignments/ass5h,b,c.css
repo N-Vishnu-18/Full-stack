@@ -1,0 +1,23 @@
+img{
+    width:32vw;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.i1{
+    float: left;
+}
+.i2{
+    float: right;
+}
+.i3{
+    display: block;
+    margin: auto;
+}
+p{
+  font-size:1.8rem;
+}
+body{
+    background-color:rgb(240, 204, 209);
+}

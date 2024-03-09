@@ -1,0 +1,29 @@
+.parent{
+    width:700px;
+    border:2px solid;
+    margin: auto;
+    height:700px;
+    margin-top:50px;
+    display: flex;
+    flex-direction: row;
+    /* gap:20px; */
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    width:150px;
+    height:150px;
+    border:2px solid;
+}
+.child-1{
+    background-color: red;
+    /* flex-grow: 1; */
+}
+.child-2{
+    background-color: green;
+    /* flex-grow: 2; */
+}
+.child-3{
+    background-color: blue;
+    /* flex-grow: 1; */
+}
